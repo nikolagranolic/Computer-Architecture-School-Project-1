@@ -1,0 +1,4 @@
+MOV rax 1
+READ [100]
+WRITE [100]
+END

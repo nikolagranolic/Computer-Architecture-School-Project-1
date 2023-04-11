@@ -1,0 +1,4 @@
+MOV rax 1
+MOV rax 2
+WRITE rax
+END

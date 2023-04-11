@@ -1,0 +1,9 @@
+BREAK
+MOV rax 1
+CMP rax -2
+JL label
+MOV rbx 5
+label:
+MOV rcx 111
+BREAK
+END

@@ -1,0 +1,30 @@
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.exe
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.deps.json
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.runtimeconfig.json
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.pdb
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\refint\ISASimulator.dll
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.pdb
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Fakultet\Treća godina\Arhitektura računara\ISASimulator\ISASimulator\obj\Debug\net6.0\ref\ISASimulator.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.exe
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.deps.json
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.runtimeconfig.json
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\bin\Debug\net6.0\ISASimulator.pdb
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\refint\ISASimulator.dll
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.pdb
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ISASimulator.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Fakultet\TrecaGodina\ArhitekturaRacunara\ISASimulator\ISASimulator\obj\Debug\net6.0\ref\ISASimulator.dll
